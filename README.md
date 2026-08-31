@@ -124,14 +124,6 @@ I care about more than getting a model to run. I want to understand the engineer
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajeeha-asad&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeeha-asad&layout=compact&hide_border=true" height="165" />
-</p>
-
----
 
 ## 🤝 Connect
 

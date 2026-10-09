@@ -2,7 +2,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="assets/hero-wajeeha.png" width="300" alt="Wajeeha Asad" />
+<img src="assets/wajeeha.png" width="300" alt="Wajeeha Asad" />
 
 </td>
 <td width="62%" valign="middle">

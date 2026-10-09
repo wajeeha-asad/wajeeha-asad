@@ -1,137 +1,178 @@
-# Hi, I'm Wajeeha Asad 👋
+<div align="center">
 
-### AI Engineer in Progress · Full-Stack Developer · Computer Science Student
+<img src="assets/pixel-avatar.svg" width="150" alt="Pixel-art avatar" />
 
-I build practical software at the intersection of **AI/ML, full-stack engineering, and product-focused UI/UX**.
+# WAJEEHA ASAD
+### AI ENGINEERING · FULL-STACK DEVELOPMENT · PRODUCT BUILDING
 
-My current focus is turning what I learn into deployable projects — from machine-learning applications and AI-assisted products to production-ready web applications.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=9B8CFF&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+working+products.;Building+with+Python%2C+AI%2C+and+the+web.;Learning+deeply.+Shipping+intentionally." alt="Animated introduction" />
 
-> **Learning the fundamentals. Building real systems. Shipping continuously.**
+<p>
+  <a href="https://wajeehaasad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B7CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/wajeehaasad/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-171A2E?style=for-the-badge&logo=githubsponsors&logoColor=B8AEFF" alt="Open to opportunities" /></a>
+</p>
 
----
+**Computer Science student · AI Engineering Intern · Builder of useful digital products**
 
-## 🧭 What I'm Focused On
+*Based in Pakistan · Building toward AI engineering, one real project at a time.*
 
-- 🤖 **AI & Machine Learning** — Python, NumPy, Pandas, scikit-learn, model development
-- 🧠 **Generative AI** — LLM applications, RAG, embeddings, AI agents
-- ⚙️ **Backend Engineering** — FastAPI, REST APIs, PostgreSQL, authentication
-- 💻 **Full-Stack Development** — React, Vite, JavaScript, Tailwind CSS
-- 🚀 **Deployment & Engineering** — Git, GitHub, Vercel, cloud-hosted applications
-- 🎨 **Product & UI/UX** — building polished, responsive interfaces around real use cases
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 [NeuraTrack](https://github.com/wajeeha-asad/NeuraTrack)
-**Full-Stack Learning & Productivity Platform**
-
-A production-deployed learning platform combining structured learning paths, focus sessions, analytics, streaks, achievements, authentication, and an AI learning companion.
-
-**Stack:** React · Vite · Tailwind CSS · FastAPI · Python · PostgreSQL · Supabase · SQLAlchemy
-
-**Live:** https://neuratrack-app.vercel.app/
+</div>
 
 ---
 
-### 📊 [Student Performance Prediction](https://github.com/wajeeha-asad/student-performance-prediction)
-**Machine Learning Application**
+## `01 / SYSTEM PROFILE`
 
-An end-to-end ML project that applies data preprocessing and machine-learning techniques to predict student performance through an interactive application.
+I'm a Computer Science student who enjoys working across the AI and application stack: from experimenting with machine learning and LLM workflows to building the interfaces and APIs that make software useful.
 
-**Stack:** Python · Pandas · NumPy · scikit-learn · Streamlit
+Right now, I'm:
+- **Growing as an AI engineer** through hands-on internship work and practical projects.
+- **Building for real users**, including a client website for Flourish Well.
+- **Exploring applied GenAI** through hackathon projects involving RAG, LLMs, and AI-assisted workflows.
+- **Developing full-stack products** with React, Python, FastAPI, and databases.
 
-**Live:** https://ml-student-performance-prediction.streamlit.app/
+> My goal: understand the system, build the product, test the assumptions, and ship something people can actually use.
 
----
+## `02 / SELECTED BUILDS`
 
-### ✦ [Velora — Digital Atelier](https://github.com/wajeeha-asad/velora-digital-atelier)
-**Modern Fashion E-Commerce Experience**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A polished fashion e-commerce experience focused on premium visual design, responsive layouts, product presentation, and modern frontend interactions.
+### ◈ NeuraTrack
+**Full-stack learning & productivity platform**
 
-**Stack:** React · JavaScript · Vite · Tailwind CSS
+A learning tracker with learning paths, focus sessions, analytics, streaks, achievements, and an AI companion.
 
-**Live:** https://velora-atelier-e-com.vercel.app/
+**Built with:** React · FastAPI · Python · PostgreSQL · SQLAlchemy
 
----
+[Repository ↗](https://github.com/wajeeha-asad/NeuraTrack) · [Live app ↗](https://neuratrack-app.vercel.app/)
 
-### ☕ [Luxe & Latte](https://github.com/wajeeha-asad/Luxe-Latte-Premium-Coffee-Experience)
-**Premium Coffee Shop Web Experience**
+</td>
+<td width="50%" valign="top">
 
-A responsive frontend project focused on visual storytelling, modern layouts, interaction design, and a refined brand experience.
+### ◈ Skill Gap Predictor
+**Machine-learning application**
 
-**Stack:** HTML · CSS · JavaScript
+An application focused on identifying skill gaps and helping users understand areas for further learning.
 
----
+**Built with:** Python · Machine Learning · Streamlit
 
-## 🛠️ Tech Stack
+[Repository ↗](https://github.com/wajeeha-asad/skill-gap-predictor) · [Live app ↗](https://skill-gap-predictor.vercel.app/)
 
-### Languages
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### ◈ CivicAgent PK
+**GenAI hackathon project · Civic support**
 
-### AI / ML
+A citizen-complaint assistant concept for Urdu/English use cases, combining policy retrieval with generated responses and official-style reporting.
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**My contribution:** LLM integration, prompt work, and a ChromaDB-based policy retrieval workflow.
 
-### Full-Stack Development
+**Built with:** Python · Groq · Llama · ChromaDB · RAG
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+[My repository ↗](https://github.com/wajeeha-asad/CivicAgent-PK-wajeeha) · [Try the demo ↗](https://civicagent-pk-2ulotjmrihrrvjc9tzqyqm.streamlit.app/)
 
-### Tools & Platforms
+</td>
+<td width="50%" valign="top">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### ◈ BrainX AI
+**Agentic AI hackathon project · Medical AI concept**
 
----
+An AI-assisted brain-tumor diagnostic copilot concept designed to explain MRI-based predictions in more understandable language and guide a patient-to-report workflow.
 
-## 📚 Currently Learning
+**My contribution:** frontend and UI implementation as part of a team.
 
-- Building reliable **RAG pipelines** with embeddings and vector search
-- Developing **LLM-powered applications** with useful product workflows
-- Exploring **AI agents** and tool-using systems
-- Strengthening **machine-learning fundamentals** and model evaluation
-- Building scalable **FastAPI backends** for AI products
-- Learning practical **Docker and cloud deployment** workflows
+[Team repository ↗](https://github.com/zaheer-ahmed77/BrainX-AI) · [Project site ↗](https://BrainXAI.zaheer.tech)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🎯 Engineering Direction
+### ◈ Flourish Well
+**Real-client website · In progress**
 
-My long-term goal is to become an **AI Engineer capable of taking an idea from data to a deployed product**.
+A client website currently in development. This is a practical opportunity to work with real requirements, communicate around a brief, and deliver a usable web experience.
 
-```text
-Problem
-   ↓
-Data → Model → API → Application → Deployment
-                              ↓
-                       Real User Value
-```
+**Status:** In progress
 
-I care about more than getting a model to run. I want to understand the engineering around it: **data, evaluation, APIs, product design, deployment, and maintainability.**
+[Repository ↗](https://github.com/wajeeha-asad/Flourish-Well-Website)
 
----
+</td>
+<td width="50%" valign="top">
 
+### ◈ Student Performance Prediction
+**Applied machine learning**
 
-## 🤝 Connect
+A small end-to-end ML project exploring student-performance prediction through an interactive app.
 
-- 💼 **LinkedIn:** [linkedin.com/in/wajeehaasad](https://www.linkedin.com/in/wajeehaasad/)
-- 🐙 **GitHub:** [github.com/wajeeha-asad](https://github.com/wajeeha-asad)
+**Built with:** Python · Pandas · NumPy · scikit-learn · Streamlit
 
----
+[Repository ↗](https://github.com/wajeeha-asad/student-performance-prediction) · [Live app ↗](https://ml-student-performance-prediction.streamlit.app/)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More frontend experiments</b> — click to expand</summary>
+
+- **[Velora — Digital Atelier](https://github.com/wajeeha-asad/velora-digital-atelier)** — fashion e-commerce concept with a premium visual direction. [Live site ↗](https://velora-atelier-e-com.vercel.app/)
+- **[Luxe & Latte](https://github.com/wajeeha-asad/Luxe-Latte-Premium-Coffee-Experience)** — coffee brand web experience focused on visual storytelling and responsive UI.
+
+</details>
+
+## `03 / TECH TOOLKIT`
 
 <p align="center">
-  <i>Building in public. Learning by shipping. Improving one system at a time.</i>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,vite,tailwind,fastapi,postgres,supabase,sklearn,git,github,vercel,vscode&perline=7" alt="Technology icons" />
 </p>
+
+| Area | Current toolkit |
+|---|---|
+| **Languages** | Python, JavaScript, C++ |
+| **AI / ML** | scikit-learn, Pandas, NumPy, LLM APIs, prompt engineering, RAG fundamentals |
+| **Backend & data** | FastAPI, REST APIs, PostgreSQL, SQLAlchemy, Supabase |
+| **Frontend** | React, Vite, HTML, CSS, Tailwind CSS |
+| **Workflow** | Git, GitHub, Streamlit, Vercel |
+
+*Honest status: I'm still strengthening my Python and AI/ML fundamentals. The tools above reflect technologies I've used or am actively learning—not expert-level mastery of every item.*
+
+## `04 / CURRENT CHAPTER`
+
+- **Work:** AI Engineering Intern at Paandaaa
+- **Building:** Flourish Well client website
+- **Hackathons:** CivicAgent PK and BrainX AI
+- **Learning:** practical LLM applications, RAG, model evaluation, and reliable API-backed products
+- **Course:** completed the Pak Angels / ASPIRE Pakistan GenAI & Agentic AI course and its associated hackathon journey
+
+## `05 / GITHUB TELEMETRY`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wajeeha-asad&show_icons=true&hide_border=true&bg_color=090B1F&title_color=B8AEFF&text_color=D8D9F0&icon_color=8093F1&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeeha-asad&layout=compact&hide_border=true&bg_color=090B1F&title_color=B8AEFF&text_color=D8D9F0&langs_count=8" alt="Most-used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wajeeha-asad&hide_border=true&background=090B1F&ring=B388EB&fire=8093F1&currStreakLabel=B8AEFF&sideLabels=D8D9F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA0C4" alt="GitHub contribution streak" />
+</div>
+
+## `06 / CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/wajeehaasad/">LinkedIn</a> ·
+<a href="https://wajeehaasad-portfolio.vercel.app/">Portfolio</a> ·
+<a href="https://github.com/wajeeha-asad">GitHub</a>
+
+<br/>
+
+*Build it. Understand it. Make it better.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8093F1,100:B388EB" width="100%" alt="" />
+
+</div>

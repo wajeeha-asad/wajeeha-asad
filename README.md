@@ -1,31 +1,35 @@
-<div align="center">
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
 
-<img
-  src="assets/hero-wajeeha.png"
-  width="300"
-  alt="Wajeeha Asad"
-/>
+<img src="assets/hero-wajeeha.png" width="300" alt="Wajeeha Asad" />
 
-# WAJEEHA ASAD
-### AI ENGINEERING · FULL-STACK DEVELOPMENT · PRODUCT BUILDING
+</td>
+<td width="62%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=9B8CFF&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+working+products.;Building+with+Python%2C+AI%2C+and+the+web.;Learning+deeply.+Shipping+intentionally." alt="Animated introduction" />
+<h1>WAJEEHA ASAD</h1>
+
+<h3>AI ENGINEERING · FULL-STACK DEVELOPMENT · PRODUCT BUILDING</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=800&color=9B8CFF&vCenter=true&width=430&lines=I+turn+ideas+into+working+products.;Building+with+Python%2C+AI%2C+and+the+web.;Learning+deeply.+Shipping+intentionally." alt="Animated introduction" />
 
 <p>
   <a href="https://wajeehaasad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B7CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/wajeehaasad/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wajeehaasad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PROJECTS_&_WORK-171A2E?style=for-the-badge&logo=vercel&logoColor=B8AEFF" alt="Projects and work" /></a>
+  <a href="https://github.com/wajeeha-asad"><img src="https://img.shields.io/badge/GITHUB-171A2E?style=for-the-badge&logo=github&logoColor=B8AEFF" alt="GitHub" /></a>
 </p>
 
-**Computer Science student · AI Engineering Intern · Builder of useful digital products**
+**Computer Science student · AI Engineering Intern · Product builder**
 
-*Based in Pakistan · Building toward AI engineering, one real project at a time.*
+📍 Pakistan · 🤖 Applied AI & GenAI · ⚡ React + Python
 
-</div>
+<blockquote>
+<em>Build it. Understand it. Make it better.</em>
+</blockquote>
 
----
-
-## `01 / SYSTEM PROFILE`
+</td>
+</tr>
+</table>PROFILE`
 
 I'm a Computer Science student who enjoys working across the AI and application stack: from experimenting with machine learning and LLM workflows to building the interfaces and APIs that make software useful.
 

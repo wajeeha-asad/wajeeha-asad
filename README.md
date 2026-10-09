@@ -2,8 +2,8 @@
 
 <img
   src="assets/hero-wajeeha.png"
-  width="250"
-  alt="Wajeeha Asad in pixel art"
+  width="300"
+  alt="Wajeeha Asad"
 />
 
 # WAJEEHA ASAD

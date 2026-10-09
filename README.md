@@ -10,7 +10,7 @@
 <p>
   <a href="https://wajeehaasad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B7CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/wajeehaasad/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-171A2E?style=for-the-badge&logo=githubsponsors&logoColor=B8AEFF" alt="Open to opportunities" /></a>
+  <a href="https://wajeehaasad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PROJECTS_&_WORK-171A2E?style=for-the-badge&logo=vercel&logoColor=B8AEFF" alt="Projects and work" /></a>
 </p>
 
 **Computer Science student · AI Engineering Intern · Builder of useful digital products**

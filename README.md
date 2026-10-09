@@ -29,7 +29,9 @@
 
 </td>
 </tr>
-</table>PROFILE
+</table>
+
+## `01 / Profile`
 
 I'm a Computer Science student who enjoys working across the AI and application stack: from experimenting with machine learning and LLM workflows to building the interfaces and APIs that make software useful.
 

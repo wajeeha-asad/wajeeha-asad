@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="assets/wajeeha-pixelart.png"
+  src="assets/hero-wajeeha.png"
   width="180"
   alt="Wajeeha Asad in pixel art"
 />

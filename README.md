@@ -2,7 +2,7 @@
 
 <img
   src="assets/hero-wajeeha.png"
-  width="180"
+  width="250"
   alt="Wajeeha Asad in pixel art"
 />
 

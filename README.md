@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/pixel-avatar.svg" width="150" alt="Pixel-art avatar" />
+<img
+  src="assets/wajeeha-pixelart.png"
+  width="180"
+  alt="Wajeeha Asad in pixel art"
+/>
 
 # WAJEEHA ASAD
 ### AI ENGINEERING · FULL-STACK DEVELOPMENT · PRODUCT BUILDING
